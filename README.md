@@ -3,6 +3,7 @@
 
 
 
+
 **FormUp** is a lightweight browser extension for developers and testers. It lets you **instantly fill forms** on any webpage with random but realistic data — perfect for rapid testing.
 
 ---
@@ -26,8 +27,6 @@
 
 **Download ZIP**  
 [Click here to download FormUp](https://drive.google.com/file/d/1wvC8HNphoaygi7Z2ChR7Cnn57D85cBGj/view?usp=sharing)
-
-> Make sure to replace the link above with your own `.zip` download URL.
 
 **Install in Chrome or Edge or Brave**
 
